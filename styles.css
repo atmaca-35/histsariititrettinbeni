@@ -131,10 +131,9 @@ main {
   background-color: #1f1f1f;
 }
 
-.purple {color: #b6526e;}
+.purple {color: #de7c98;}
 .gray {color: #8d8c91;}
-.red {
-    color: #e9d677;
+.red {color: #e9d677;
 }
 
 @media (max-width: 768px) {
@@ -175,12 +174,12 @@ main {
 .clickable-word {
     color: #e9d677;
     cursor: pointer;
-    text-decoration: none; /* Varsayýlan olarak altý çizili olmasýn */
+    text-decoration: none; /* VarsayÃ½lan olarak altÃ½ Ã§izili olmasÃ½n */
 }
 
     .clickable-word:active,
     .clickable-word:focus {
-        text-decoration: underline; /* Týklanýnca altý çizili olacak */
+        text-decoration: underline; /* TÃ½klanÃ½nca altÃ½ Ã§izili olacak */
     }
 
 
